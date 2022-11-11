@@ -1,0 +1,1 @@
+[Mon Sep 19 02:55:40.632528 2022] [php:error] [pid 88408] [client 192.168.2.114:56799] PHP Fatal error:  Cannot redeclare App\\Http\\Controllers\\Page::show() in /srv/users/akvryjfk/yzhjftk-m1/app/Http/Controllers/Page.php on line 17
